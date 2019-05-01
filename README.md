@@ -1,3 +1,5 @@
 # hollo-world
-print("hi therer")
+text="hi therer"
+print(text)
+
 #this is edit by eason
